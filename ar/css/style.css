@@ -1,0 +1,233 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	direction:rtl;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#000;
+	margin:0;
+	padding:0;
+	background-color: #FFF;
+	background:url(../images/background.png);
+	overflow: auto;
+}
+A:link {text-decoration: none ; color: #666;}
+A:visited {text-decoration: none ;color: #666;}
+A:active {text-decoration: none; color: #666;}
+A:hover {text-decoration: underline; color: #666;}
+
+#wrapper {
+	margin:auto;
+    width:960px;
+}
+
+#header {
+width:960px;
+height:135px;
+margin:0 auto;
+margin-bottom:25px;
+}
+#headerImageLeft{
+	float:left;
+	width:235px;
+	padding-top:16px;
+	padding-right:430px;
+	}
+#headerImageRight{
+	float:left;
+	width:260px;
+	padding-top:16px;
+	padding-right:25px;
+	}
+
+#content {
+clear:both;
+width:960px;
+min-height:300px;
+padding:10px;
+}
+#content-title{
+padding:15px 15px 15px 15px ;
+font-weight:bold;
+font-size:large;
+}
+
+#content-text{
+padding:25px;
+}
+
+#navigation{
+clear:both;
+width:960px;
+height:227px;
+min-height:227;
+background-image:url(../images/inn_06.png);
+background-repeat:no-repeat;
+background-size:960px;
+}
+
+#navigation-menu{
+clear:both;
+width:920px;
+}
+
+#navigation-left{
+width:285px;
+height:180;
+float:left;
+}
+
+#navigation-right-title{
+float:left;
+width:660px;
+height:40px;
+padding:15px 0px 0px 0px ;
+font-weight:bold;
+font-size:x-large;
+}
+
+#navigation-right-text{
+width:650px;
+float:left;
+padding-right:25px; 
+}
+
+#navigation-right-text p{
+	text-align:justify;
+}
+
+#navigation-right{
+width:675px;
+
+float:right;
+}
+
+#footer{
+clear:both;
+background-image:url(../images/inn_07.png); 
+background-repeat:no-repeat;
+width:960px;
+}
+
+#footer p{
+padding:10px;
+}
+
+#footer-copyright{
+	width:34%; 
+	height:40px; 
+	float:right;
+	padding:5px 5px 0px 0px ;
+}
+
+#footer-menu{
+	width:64%; 
+	height:40px; 
+	float:left; 
+	text-align:left;
+	padding:5px 0px 5px 5px ;
+}
+#footer-menu a {
+	text-decoration:none;
+	color: #FFF;
+}
+
+#footer-menu a:hover {
+	color: #F00;
+}
+
+#footer-information{
+	clear:both; 
+	text-align:center;
+	padding-top:3px;
+	padding-bottom:10px;
+}
+
+<!--menu system start ->
+#nav {
+	clear:both;
+	margin:0;
+	padding:0;
+}
+
+#nav li {
+
+	margin: 0 1px;
+	padding: 0px 0px 0px ;
+	float: right;
+	position: relative;
+	list-style: none;
+	text-align:center;
+}
+/* main level link */
+#nav a {
+	font-weight: bold;
+	color: #FFF;
+	background: #333;
+	text-decoration: none;
+	display: block;
+	padding:  10px 20px;
+	margin: 0;
+}
+/* main level link hover */
+#nav .current a, #nav li:hover > a {
+	background: #CCC;;
+	color: #FFF;
+	border-top: solid 1px #f8f8f8;
+}
+/* sub levels link hover */
+#nav ul li:hover a, #nav li:hover li a {
+	background:#333;
+	border: #000;
+	color: #666;
+	text-align:right;
+	vertical-align:middle;
+}
+#nav ul a:hover {
+	background: #CCC !important; 
+	color: #fff !important;
+}
+/* level 2 list */
+#nav ul {
+	display: none;
+	margin: 0;
+	padding: 0;
+	width: 185px;
+	position: absolute;
+	top: 35px;
+	left: 0;	
+}
+/* dropdown */
+#nav li:hover > ul {
+	display: block;
+}
+#nav ul li {
+	clear:both;
+	margin: 0;
+	padding:0px;
+	width:185px;
+}
+#nav ul a {
+	font-weight: normal;
+}
+
+/* clearfix */
+#nav:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+#nav {
+	display: inline-block;
+}
+html[xmlns] #nav {
+	display: compact;
+}
+* html #nav {
+	height:1%;
+}

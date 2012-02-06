@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body {margin:0px; background-color:#FFF;font-family: Arial, Helvetica, sans-serif;font-size: 13px;color: #333;}
+a {color:#333;text-decoration:none; font-size:16px;font-weight:bold;}
+#imgCont{margin:0px;width:450px;height:350px;}
+#imgCont img{display:none; position:absolute;}
+.blutxt {color:#5ea7dd; font-weight:bold;}
+.ib {border:#ffffff solid 3px;}
+.ib1 {border:#ffffff solid 1px;}
+.mnubg {
+	background-image: url(../images/mnubg.png); width:778; height:220;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+.wt{color:#333;}
+.tt{text-align:left;font-size:24px;color:#333;}
+#maintxt{padding:5px;color:#333;text-align:justify;height:150px;width:725px;overflow:auto;}
+.brdtbl{padding:25px;background:url(../images/bg-birds.png) no-repeat left center scroll}
+.movtbl{padding-top:20px;padding-right:10px;padding-bottom:10px;padding-left:10px;background:url(../images/bg-360stills.png) no-repeat left center scroll;}
+.movtbl2{padding-top:20px;padding-right:10px;padding-bottom:10px;padding-left:10px;background:url(../images/bg-360video.png) no-repeat left center scroll;}
+.sanct{padding:25px;background:url(../images/bg-sanctuary.png) no-repeat left center scroll;}
+.jig{padding-top:5px;background:url(../images/bg-sanctuary.png) no-repeat left center scroll;}
+.post{padding-top:20px;background:url(../images/bg-sanctuary.png) no-repeat left center scroll;}
+p{font-size:12px; color:#333;}

@@ -1,0 +1,7 @@
+# Begin password protection #
+AuthName "Only Admin can see this section"
+Require valid-user
+AuthUserFile "/home/users/web/b42/nf.mavajsunco/public_html/demo/wildlife.ae/2011/statistics/.htpasswd"
+AuthType basic
+# End password protection #
+
