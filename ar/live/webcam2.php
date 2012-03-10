@@ -22,12 +22,12 @@
                                                     <td align="right">
                                           <OBJECT ID="MediaPlayer" WIDTH="451" HEIGHT="270" CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95"
                                                                 STANDBY="Loading Windows Media Player components..." TYPE="application/x-oleobject">
-                                                            <PARAM NAME="FileName" VALUE="mms://213.42.28.213:8800"/>
+                                                            <PARAM NAME="FileName" VALUE="mms://213.42.28.213:8888"/>
                                                             <PARAM name="autostart" VALUE="true"/>
                                                             <PARAM name="ShowControls" VALUE="false"/>
                                                             <param name="ShowStatusBar" value="true"/>
                                                             <PARAM name="ShowDisplay" VALUE="false"/>
-                                                            <EMBED TYPE="application/x-mplayer2" SRC="http://213.42.28.213:8800" NAME="MediaPlayer"
+                                                            <EMBED TYPE="application/x-mplayer2" SRC="http://213.42.28.213:8888" NAME="MediaPlayer"
                                                                    WIDTH="451" HEIGHT="270" ShowControls="0" ShowStatusBar="1" ShowDisplay="0" autostart="1"/>
                                                         </OBJECT>
                                                     </td>
