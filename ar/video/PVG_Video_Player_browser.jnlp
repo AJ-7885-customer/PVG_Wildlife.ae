@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://www.wildlife.ae/update/NewComponet/PVG-Player/" href="PVG_Video_Player_browser.jnlp">
+    <information>
+        <title>PVG Video Player</title>
+        <vendor>Photint Venture Group</vendor>
+        <homepage href="http://www.wildlife.ae/update/NewComponet/PVG-Player/"/>
+        <description>PVG Video Player</description>
+        <offline-allowed/>
+        <shortcut>
+            <desktop/>
+        </shortcut>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.2/javafx-rt.jnlp"/>
+        <jar href="PVG_Video_Player.jar" main="true"/>
+    </resources>
+    <applet-desc name="PVG_Video_Player" main-class="com.sun.javafx.runtime.adapter.Applet" width="640" height="360">
+        <param name="MainJavaFXScript" value="com.sun.javafx.mediabox.Main">
+    </applet-desc>
+    <update check="background">
+</jnlp>
