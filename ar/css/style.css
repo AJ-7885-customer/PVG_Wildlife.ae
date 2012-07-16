@@ -4,13 +4,14 @@
 
 body {
 	direction:rtl;
-	font-family: Tahoma, Geneva, sans-serif;
+		font-family: Tahoma, Geneva, sans-serif;
 	font-size:12px;
 	color:#000;
 	margin:0;
 	padding:0;
 	background-color: #FFF;
 	background:url(../images/background.png);
+	background-size:100%;
 	overflow: auto;
 }
 A:link {text-decoration: none ; color: #666;}
