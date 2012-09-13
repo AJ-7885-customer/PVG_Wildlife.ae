@@ -1,7 +1,7 @@
 <?php
 //By Google Analytics report by www.MavajSunCo.com
 define('ga_email','photintdxb@gmail.com');
-define('ga_password','la$foto$');
+define('ga_password','foto$la$');
 define('ga_profile_id','54126478');
 
 require 'gapi.class.php';
