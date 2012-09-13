@@ -8,7 +8,9 @@ require 'gapi.class.php';
 
 $ga = new gapi(ga_email,ga_password);
 
-$ga->requestReportData(ga_profile_id,array('browser','browserVersion'),array('pageviews','visits'));
+$ga->requestReportData(ga_profile_id,array('browser','browserVersion'),array('pageviews','visits'),null,null,'2011-09-01',date("Y-m-d"));
+
+
 ?><?php // echo $ga->getTotalResults() ?><?php //echo $ga->getVisits() ?>
 <table>
 <tr>
