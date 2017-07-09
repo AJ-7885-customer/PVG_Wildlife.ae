@@ -1,9 +1,9 @@
 <div id="footer" >
   <div id="footer-menu">
-	<a href=<?php echo $host."http://www.wildlife.ae/ar/index.php";?>>الصفحة الرئيسية</a> | 
-    <a href=<?php echo $host."http://www.wildlife.ae/ar/links.php";?>>الروابط</a> |
-    <a href=<?php echo $host."http://www.wildlife.ae/ar/sitemap.php";?>>خريطة الموقع</a> |
-    <a href=<?php echo $host."http://www.wildlife.ae/ar/contact.php";?>>اتصل بنا</a> |
+	<a href="/ar/index.php">الصفحة الرئيسية</a> | 
+    <a href="/ar/links.php">الروابط</a> |
+    <a href="/ar/sitemap.php">خريطة الموقع</a> |
+    <a href="/ar/contact.php">اتصل بنا</a> |
     <a href="https://portal.dm.gov.ae/suggestions/sc_welcome.htm">اقتراحات وشكاوى</a> |
     <a href="http://login.dm.gov.ae/wps/portal/ext_ar?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+Ar/home-ar/TermsAndConditions">شروط وأحكام</a> |
     <a href="http://login.dm.gov.ae/wps/portal/ext_ar?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+Ar/home-ar/PrivacyPolicy">سياسة الأمن و الخصوصية</a>
