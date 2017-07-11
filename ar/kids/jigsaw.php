@@ -4,7 +4,7 @@
                     <title>لعبة بانوراما الجيغسو | رأس الخور للحياة البرية محمية</title>
                     <meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
                     <link href="../css/style.css" rel="stylesheet" type="text/css"/>
-                <script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+                <script src="../../lib/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
    
                 </head>
                 <body >

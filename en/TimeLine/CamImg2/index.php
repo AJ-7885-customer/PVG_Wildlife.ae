@@ -66,7 +66,7 @@
                                     <tr valign="top">
                                         <td height="40" colspan="2" align="center" valign="top">
                                             <!-- Menu Beging -->
-                                            <script type='text/javascript' src='../../Scripts/qmenu.js'></script>
+                                            <script type='text/javascript' src='../../../lib/Scripts/qmenu.js'></script>
                                             <!-- Menu END -->
                                         </td>
                                     </tr>

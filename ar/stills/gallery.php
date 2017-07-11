@@ -5,10 +5,10 @@
                     <meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
     <link href="../css/lightbox.css" rel="stylesheet" type="text/css" media="screen" />
     <link href="../css/style.css" rel="stylesheet" type="text/css"/>
-    <script language="javascript" type="text/javascript" src="../Scripts/prototype.js"></script>
-    <script language="javascript" type="text/javascript" src="../Scripts/scriptaculous.js?load=effects,builder"></script>
-    <script language="javascript" type="text/javascript" src="../Scripts/lightbox.js"></script>
-    <script language="javascript" type="text/javascript" src="../Scripts/gal.js"></script>
+    <script language="javascript" type="text/javascript" src="../../lib/Scripts/prototype.js"></script>
+    <script language="javascript" type="text/javascript" src="../../lib/Scripts/scriptaculous.js?load=effects,builder"></script>
+    <script language="javascript" type="text/javascript" src="../../lib/Scripts/lightbox.js"></script>
+    <script language="javascript" type="text/javascript" src="../../lib/Scripts/gal.js"></script>
                    </head>
                 <body >
                     <div id="wrapper">

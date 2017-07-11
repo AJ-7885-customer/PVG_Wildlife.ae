@@ -12,7 +12,7 @@
                         <div id="content-title">استمعوا لصوت الفلامنغو</div>
                         <div id="content-text">
                           <center>
-                                    <script src="http://dl.javafx.com/1.2/dtfx.js"></script>
+                              <script src="../../lib/Scripts/dtfx.js"></script>
                                     <script>
                                         javafx(
                                         {
