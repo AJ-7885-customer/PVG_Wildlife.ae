@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="http://www.wildlife.ae/update/NewComponet/PVG-Player/" href="PVG_Video_Player.jnlp">
+<jnlp spec="1.0+" codebase="https://www.wildlife.ae/update/NewComponet/PVG-Player/" href="PVG_Video_Player.jnlp">
     <information>
         <title>PVG Video Player</title>
         <vendor>Photint Venture Group</vendor>
-        <homepage href="http://www.wildlife.ae/update/NewComponet/PVG-Player/"/>
+        <homepage href="https://www.wildlife.ae/update/NewComponet/PVG-Player/"/>
         <description>PVG_Video_Player</description>
         <offline-allowed/>
         <shortcut>
@@ -12,7 +12,7 @@
     </information>
     <resources>
         <j2se version="1.5+"/>
-        <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.2/javafx-rt.jnlp"/>
+        <extension name="JavaFX Runtime" href="https://dl.javafx.com/1.2/javafx-rt.jnlp"/>
         <jar href="PVG_Video_Player.jar" main="true"/>
     </resources>
     <application-desc main-class="com.sun.javafx.runtime.main.Main">

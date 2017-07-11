@@ -26,9 +26,9 @@
                     <div id="navigation-letf-title">Links</div><!--EOF navigation-left-title-->
                     <div id="navigation-letf-text">
                         <div>
-                            <p>World Wide Fund for Nature - <a href="http://www.panda.org" target="_new">www.panda.org</a><br/>
-                                Ramsar - <a href="http://www.ramsar.org" target="_new">www.ramsar.org</a><br/>
-                                Birdlife International - <a href="http://www.birdlife.org" target="_new">www.birdlife.org</a></p>
+                            <p>World Wide Fund for Nature - <a href="https://www.panda.org" target="_new">www.panda.org</a><br/>
+                                Ramsar - <a href="https://www.ramsar.org" target="_new">www.ramsar.org</a><br/>
+                                Birdlife International - <a href="https://www.birdlife.org" target="_new">www.birdlife.org</a></p>
                         </div>
                         <p>&nbsp;</p>
                     </div><!--EOF navigation-left-text-->

@@ -29,9 +29,9 @@ A:hover {text-decoration: underline; color: #FFF;}
                       
                     <div id="navigation-right-title">الروابط</div><!--EOF navigation-left-title-->
                     <div id="navigation-right-text">
-                   <p>الصندوق العالمي للطبيعة -<a href="http://www.panda.org"> www.panda.org</a></p>
-                   <p>رامسار -<a href="http://www.ramsar.org"> www.ramsar.org</a></p>
-                   <p>حياة الطيور الدولية -<a href="http://www.birdlife.org"> www.birdlife.org</a></p>
+                   <p>الصندوق العالمي للطبيعة -<a href="https://www.panda.org"> www.panda.org</a></p>
+                   <p>رامسار -<a href="https://www.ramsar.org"> www.ramsar.org</a></p>
+                   <p>حياة الطيور الدولية -<a href="https://www.birdlife.org"> www.birdlife.org</a></p>
                    </div><!--EOF navigation-left-text-->
                     
                     

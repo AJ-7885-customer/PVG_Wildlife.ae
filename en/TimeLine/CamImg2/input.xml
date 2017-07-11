@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <images>
-	<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00001.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00002.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00003.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00004.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00005.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00006.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00007.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00008.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00009.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00010.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00011.jpg</address>
-	</image>
-<image>
-		<address>http://www.wildlife.ae/TimeDelay/CamImg2/image00012.jpg</address>
-	</image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00001.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00002.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00003.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00004.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00005.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00006.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00007.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00008.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00009.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00010.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00011.jpg</address>
+    </image>
+    <image>
+        <address>https://www.wildlife.ae/TimeDelay/CamImg2/image00012.jpg</address>
+    </image>
 	
 </images>

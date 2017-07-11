@@ -2,7 +2,7 @@
 /**
  * GAPI - Google Analytics PHP Interface
  * 
- * http://code.google.com/p/gapi-google-analytics-php-interface/
+ * https://code.google.com/p/gapi-google-analytics-php-interface/
  * 
  * @copyright Stig Manning 2009
  * 
@@ -17,7 +17,7 @@
  * GNU General Public License for more details.
  * 
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  * 
  * @author Stig Manning <stig@sdm.co.nz>
  * @version 1.3
@@ -267,7 +267,7 @@ class gapi
     $account_root_parameters['generator'] = strval($xml->generator);
     $account_root_parameters['generatorVersion'] = strval($xml->generator->attributes());
     
-    $open_search_results = $xml->children('http://a9.com/-/spec/opensearchrss/1.0/');
+    $open_search_results = $xml->children('https://a9.com/-/spec/opensearchrss/1.0/');
     
     foreach($open_search_results as $key => $open_search_result)
     {
@@ -282,7 +282,7 @@ class gapi
     foreach($xml->entry as $entry)
     {
       $properties = array();
-      foreach($entry->children('http://schemas.google.com/analytics/2009')->property as $property)
+      foreach($entry->children('https://schemas.google.com/analytics/2009')->property as $property)
       {
         $properties[str_replace('ga:','',$property->attributes()->name)] = strval($property->attributes()->value);
       }
@@ -322,14 +322,14 @@ class gapi
     $report_root_parameters['generator'] = strval($xml->generator);
     $report_root_parameters['generatorVersion'] = strval($xml->generator->attributes());
     
-    $open_search_results = $xml->children('http://a9.com/-/spec/opensearchrss/1.0/');
+    $open_search_results = $xml->children('https://a9.com/-/spec/opensearchrss/1.0/');
     
     foreach($open_search_results as $key => $open_search_result)
     {
       $report_root_parameters[$key] = intval($open_search_result);
     }
     
-    $google_results = $xml->children('http://schemas.google.com/analytics/2009');
+    $google_results = $xml->children('https://schemas.google.com/analytics/2009');
 
     foreach($google_results->dataSource->property as $property_attributes)
     {
@@ -361,7 +361,7 @@ class gapi
     foreach($xml->entry as $entry)
     {
       $metrics = array();
-      foreach($entry->children('http://schemas.google.com/analytics/2009')->metric as $metric)
+      foreach($entry->children('https://schemas.google.com/analytics/2009')->metric as $metric)
       {
         $metric_value = strval($metric->attributes()->value);
         
@@ -377,7 +377,7 @@ class gapi
       }
       
       $dimensions = array();
-      foreach($entry->children('http://schemas.google.com/analytics/2009')->dimension as $dimension)
+      foreach($entry->children('https://schemas.google.com/analytics/2009')->dimension as $dimension)
       {
         $dimensions[str_replace('ga:','',$dimension->attributes()->name)] = strval($dimension->attributes()->value);
       }

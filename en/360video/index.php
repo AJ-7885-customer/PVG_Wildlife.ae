@@ -78,7 +78,7 @@
                                                                 document.title = document.title.slice(0, 47) + " - Flash Player Installation";
                                                                 var MMdoctitle = document.title;
 
-                                                                AC_FL_RunContent( 'id','Video3D','width','441','height','335','codebase','http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab','movie','Video3D','quality','high','flashvars','myVideo=assets/rak1.flv','bgcolor','#869ca7','allowscriptaccess','sameDomain' ); //end AC code
+                                                                AC_FL_RunContent( 'id','Video3D','width','441','height','335','codebase','https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab','movie','Video3D','quality','high','flashvars','myVideo=assets/rak1.flv','bgcolor','#869ca7','allowscriptaccess','sameDomain' ); //end AC code
                                                             } else if (hasRequestedVersion) {
                                                                 // if we've detected an acceptable version
                                                                 // embed the Flash Content SWF when all Video3Ds are passed
@@ -94,12 +94,12 @@
                                                                 "name", "Video3D",
                                                                 "allowScriptAccess","sameDomain",
                                                                 "type", "application/x-shockwave-flash",
-                                                                "pluginspage", "http://www.adobe.com/go/getflashplayer"
+                                                                "pluginspage", "https://www.adobe.com/go/getflashplayer"
                                                             );
                                                             } else {  // flash is too old or we can't detect the plugin
                                                                 var alternateContent = 'Alternate HTML content should be placed here. '
                                                                     + 'This content requires the Adobe Flash Player. '
-                                                                    + '<a href=http://www.adobe.com/go/getflash/>Get Flash</a>';
+                                                                    + '<a href=https://www.adobe.com/go/getflash/>Get Flash</a>';
                                                                 document.write(alternateContent);  // insert non-flash content
                                                             }
                                                             // -->
@@ -107,7 +107,7 @@
                                                         <noscript>
                                                             <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
                                                                     id="Video3D" width="441" height="335"
-                                                                    codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
+                                                                    codebase="https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
                                                                 <param name="movie" value="Video3D.swf" />
                                                                 <param name="quality" value="high" />
                                                                 <param name='flashVars' value='myVideo=assets/rak1.flv'/>
@@ -120,7 +120,7 @@
                                                                        quality="high"
                                                                        allowScriptAccess="sameDomain"
                                                                        type="application/x-shockwave-flash"
-                                                                       pluginspage="http://www.adobe.com/go/getflashplayer">
+                                                                       pluginspage="https://www.adobe.com/go/getflashplayer">
                                                                 </embed>
                                                             </object>
                                                         </noscript>
@@ -147,7 +147,7 @@
                                                         <!--  BEGIN Browser History required section -->
                                                         <script src="history/history.js" language="javascript"></script>
                                                         <!--  END Browser History required section -->
-                                                        <script language="JavaScript" type="text/javascript">AC_FL_RunContent( 'id','Video3D','width','441','height','335','codebase','http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab','movie','Video3D','quality','high','flashvars','myVideo=assets/rak2.flv','bgcolor','#869ca7','allowscriptaccess','sameDomain' ); //end AC code</script>
+                                                        <script language="JavaScript" type="text/javascript">AC_FL_RunContent( 'id','Video3D','width','441','height','335','codebase','https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab','movie','Video3D','quality','high','flashvars','myVideo=assets/rak2.flv','bgcolor','#869ca7','allowscriptaccess','sameDomain' ); //end AC code</script>
                                                         <noscript>
                                                             <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
                                                                     id="Video3D" width="441" height="335"
@@ -231,7 +231,7 @@
                                                             } else {  // flash is too old or we can't detect the plugin
                                                                 var alternateContent = 'Alternate HTML content should be placed here. '
                                                                     + 'This content requires the Adobe Flash Player. '
-                                                                    + '<a href=http://www.adobe.com/go/getflash/>Get Flash</a>';
+                                                                    + '<a href=https://www.adobe.com/go/getflash/>Get Flash</a>';
                                                                 document.write(alternateContent);  // insert non-flash content
                                                             }
                                                             // -->
@@ -239,7 +239,7 @@
                                                         <noscript>
                                                             <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
                                                                     id="Video3D" width="441" height="335"
-                                                                    codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
+                                                                    codebase="https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
                                                                 <param name="movie" value="Video3D.swf" />
                                                                 <param name="quality" value="high" />
                                                                 <param name='flashVars' value='myVideo=assets/rak3.flv'/>
@@ -252,7 +252,7 @@
                                                                        quality="high"
                                                                        allowScriptAccess="sameDomain"
                                                                        type="application/x-shockwave-flash"
-                                                                       pluginspage="http://www.adobe.com/go/getflashplayer">
+                                                                       pluginspage="https://www.adobe.com/go/getflashplayer">
                                                                 </embed>
                                                             </object>
                                                         </noscript>
@@ -306,7 +306,7 @@
                                                                 document.title = document.title.slice(0, 47) + " - Flash Player Installation";
                                                                 var MMdoctitle = document.title;
 
-                                                                AC_FL_RunContent( 'id','Video3D','width','441','height','335','codebase','http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab','movie','Video3D','quality','high','flashvars','myVideo=assets/rak4.flv','bgcolor','#869ca7','allowscriptaccess','sameDomain' ); //end AC code
+                                                                AC_FL_RunContent( 'id','Video3D','width','441','height','335','codebase','https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab','movie','Video3D','quality','high','flashvars','myVideo=assets/rak4.flv','bgcolor','#869ca7','allowscriptaccess','sameDomain' ); //end AC code
                                                             } else if (hasRequestedVersion) {
                                                                 // if we've detected an acceptable version
                                                                 // embed the Flash Content SWF when all Video3Ds are passed
@@ -322,12 +322,12 @@
                                                                 "name", "Video3D",
                                                                 "allowScriptAccess","sameDomain",
                                                                 "type", "application/x-shockwave-flash",
-                                                                "pluginspage", "http://www.adobe.com/go/getflashplayer"
+                                                                "pluginspage", "https://www.adobe.com/go/getflashplayer"
                                                             );
                                                             } else {  // flash is too old or we can't detect the plugin
                                                                 var alternateContent = 'Alternate HTML content should be placed here. '
                                                                     + 'This content requires the Adobe Flash Player. '
-                                                                    + '<a href=http://www.adobe.com/go/getflash/>Get Flash</a>';
+                                                                    + '<a href=https://www.adobe.com/go/getflash/>Get Flash</a>';
                                                                 document.write(alternateContent);  // insert non-flash content
                                                             }
                                                             // -->
@@ -335,7 +335,7 @@
                                                         <noscript>
                                                             <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
                                                                     id="Video3D" width="441" height="335"
-                                                                    codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
+                                                                    codebase="https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
                                                                 <param name="movie" value="Video3D.swf" />
                                                                 <param name="quality" value="high" />
                                                                 <param name='flashVars' value='myVideo=assets/rak4.flv'/>
@@ -348,7 +348,7 @@
                                                                        quality="high"
                                                                        allowScriptAccess="sameDomain"
                                                                        type="application/x-shockwave-flash"
-                                                                       pluginspage="http://www.adobe.com/go/getflashplayer">
+                                                                       pluginspage="https://www.adobe.com/go/getflashplayer">
                                                                 </embed>
                                                             </object>
                                                         </noscript>
@@ -402,7 +402,7 @@
                                                                 document.title = document.title.slice(0, 47) + " - Flash Player Installation";
                                                                 var MMdoctitle = document.title;
 
-                                                                AC_FL_RunContent( 'id','Video3D','width','441','height','335','codebase','http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab','movie','Video3D','quality','high','flashvars','myVideo=assets/water-fin.flv','bgcolor','#869ca7','allowscriptaccess','sameDomain' ); //end AC code
+                                                                AC_FL_RunContent( 'id','Video3D','width','441','height','335','codebase','https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab','movie','Video3D','quality','high','flashvars','myVideo=assets/water-fin.flv','bgcolor','#869ca7','allowscriptaccess','sameDomain' ); //end AC code
                                                             } else if (hasRequestedVersion) {
                                                                 // if we've detected an acceptable version
                                                                 // embed the Flash Content SWF when all Video3Ds are passed
@@ -418,7 +418,7 @@
                                                                 "name", "Video3D",
                                                                 "allowScriptAccess","sameDomain",
                                                                 "type", "application/x-shockwave-flash",
-                                                                "pluginspage", "http://www.adobe.com/go/getflashplayer"
+                                                                "pluginspage", "https://www.adobe.com/go/getflashplayer"
                                                             );
                                                             } else {  // flash is too old or we can't detect the plugin
                                                                 var alternateContent = 'Alternate HTML content should be placed here. '
@@ -431,7 +431,7 @@
                                                         <noscript>
                                                             <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
                                                                     id="Video3D" width="441" height="335"
-                                                                    codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
+                                                                    codebase="https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
                                                                 <param name="movie" value="Video3D.swf" />
                                                                 <param name="quality" value="high" />
                                                                 <param name='flashVars' value='myVideo=assets/water-fin.flv'/>
@@ -444,7 +444,7 @@
                                                                        quality="high"
                                                                        allowScriptAccess="sameDomain"
                                                                        type="application/x-shockwave-flash"
-                                                                       pluginspage="http://www.adobe.com/go/getflashplayer">
+                                                                       pluginspage="https://www.adobe.com/go/getflashplayer">
                                                                 </embed>
                                                             </object>
                                                         </noscript>
@@ -498,7 +498,7 @@
                                                                 document.title = document.title.slice(0, 47) + " - Flash Player Installation";
                                                                 var MMdoctitle = document.title;
 
-                                                                AC_FL_RunContent( 'id','Video3D','width','441','height','335','codebase','http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab','movie','Video3D','quality','high','flashvars','myVideo=assets/lake-fin.flv','bgcolor','#869ca7','allowscriptaccess','sameDomain' ); //end AC code
+                                                                AC_FL_RunContent( 'id','Video3D','width','441','height','335','codebase','https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab','movie','Video3D','quality','high','flashvars','myVideo=assets/lake-fin.flv','bgcolor','#869ca7','allowscriptaccess','sameDomain' ); //end AC code
                                                             } else if (hasRequestedVersion) {
                                                                 // if we've detected an acceptable version
                                                                 // embed the Flash Content SWF when all Video3Ds are passed
@@ -514,12 +514,12 @@
                                                                 "name", "Video3D",
                                                                 "allowScriptAccess","sameDomain",
                                                                 "type", "application/x-shockwave-flash",
-                                                                "pluginspage", "http://www.adobe.com/go/getflashplayer"
+                                                                "pluginspage", "https://www.adobe.com/go/getflashplayer"
                                                             );
                                                             } else {  // flash is too old or we can't detect the plugin
                                                                 var alternateContent = 'Alternate HTML content should be placed here. '
                                                                     + 'This content requires the Adobe Flash Player. '
-                                                                    + '<a href=http://www.adobe.com/go/getflash/>Get Flash</a>';
+                                                                    + '<a href=https://www.adobe.com/go/getflash/>Get Flash</a>';
                                                                 document.write(alternateContent);  // insert non-flash content
                                                             }
                                                             // -->
@@ -527,7 +527,7 @@
                                                         <noscript>
                                                             <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
                                                                     id="Video3D" width="441" height="335"
-                                                                    codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
+                                                                    codebase="https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
                                                                 <param name="movie" value="Video3D.swf" />
                                                                 <param name="quality" value="high" />
                                                                 <param name='flashVars' value='myVideo=assets/lake-fin.flv'/>
@@ -540,7 +540,7 @@
                                                                        quality="high"
                                                                        allowScriptAccess="sameDomain"
                                                                        type="application/x-shockwave-flash"
-                                                                       pluginspage="http://www.adobe.com/go/getflashplayer">
+                                                                       pluginspage="https://www.adobe.com/go/getflashplayer">
                                                                 </embed>
                                                             </object>
                                                         </noscript>
@@ -574,7 +574,7 @@
     </div><!--EOF navigation-left-->
 	<div id="navigation-right">
     <p>Note:</p>
-    <p>This content requires <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank">Internet Explorer</a>. You will also need to enable ActiveX control in your browser.</p>
+    <p>This content requires <a href="https://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank">Internet Explorer</a>. You will also need to enable ActiveX control in your browser.</p>
     <br/>
     <p><a href="info.html" onclick="popWin(this.href,'name','480','400','yes');return false;" onfocus="this.blur();">For more information click here.</a></p>
     </div><!--EOF navigation-right-->

@@ -18,30 +18,30 @@
                             <tr align="left">
                                 <td width="500" height="350" class="movtbl">
                                     <div id="m1" style="display:none;">
-                                        <embed src="mov/barnicalsfrogs.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="http://www.apple.com/quicktime/download/"></embed>
+                                        <embed src="mov/barnicalsfrogs.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="https://www.apple.com/quicktime/download/"></embed>
                                     </div>
                                     <div id="m2" style="display:none;">
-                                        <embed src="mov/bigfishpale.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="http://www.apple.com/quicktime/download/"></embed>
+                                        <embed src="mov/bigfishpale.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="https://www.apple.com/quicktime/download/"></embed>
                                     </div>
                                     <div id="m3" style="display:none;">
-                                        <embed src="mov/feedtime.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="http://www.apple.com/quicktime/download/"></embed>
+                                        <embed src="mov/feedtime.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="https://www.apple.com/quicktime/download/"></embed>
                                     </div>
                                     <div id="m4" style="display:none;">
-                                        <embed src="mov/frogs.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="http://www.apple.com/quicktime/download/"></embed>
+                                        <embed src="mov/frogs.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="https://www.apple.com/quicktime/download/"></embed>
                                     </div>
                                     <div id="m5" style="display:none;">
-                                        <embed src="mov/hide.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="http://www.apple.com/quicktime/download/"></embed>
+                                        <embed src="mov/hide.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="https://www.apple.com/quicktime/download/"></embed>
                                     </div>
                                     <div id="m6" style="display:none;">
-                                        <embed src="mov/mangrovehide.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="http://www.apple.com/quicktime/download/"></embed>
+                                        <embed src="mov/mangrovehide.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="https://www.apple.com/quicktime/download/"></embed>
                                     </div>
                                     <div id="m7" style="display:none;">
-                                        <embed src="mov/exterior.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="http://www.apple.com/quicktime/download/"></embed>
+                                        <embed src="mov/exterior.mov" width="480" height=320 scale=TOFIT cache=TRUE pluginspage="https://www.apple.com/quicktime/download/"></embed>
                                     </div>
                                 </td>
                             </tr>
                             <tr align="left">
-                                <td style="padding:5px;">Please note: This content requires Quicktime, you can <a href="http://www.apple.com/quicktime/download/" target="_blank" onfocus="this.blur();">download Quicktime here</a></td>
+                                <td style="padding:5px;">Please note: This content requires Quicktime, you can <a href="https://www.apple.com/quicktime/download/" target="_blank" onfocus="this.blur();">download Quicktime here</a></td>
                             </tr>
                             <tr align="left">
                                 <td style="padding:5px;"><strong>Viewing Instructions:</strong>&nbsp;Hold down the left mouse button inside the image and drag the cursor in the direction you wish to move.</td>

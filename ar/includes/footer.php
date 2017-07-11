@@ -5,8 +5,8 @@
     <a href="/ar/sitemap.php">خريطة الموقع</a> |
     <a href="/ar/contact.php">اتصل بنا</a> |
     <a href="https://portal.dm.gov.ae/suggestions/sc_welcome.htm">اقتراحات وشكاوى</a> |
-    <a href="http://login.dm.gov.ae/wps/portal/ext_ar?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+Ar/home-ar/TermsAndConditions">شروط وأحكام</a> |
-    <a href="http://login.dm.gov.ae/wps/portal/ext_ar?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+Ar/home-ar/PrivacyPolicy">سياسة الأمن و الخصوصية</a>
+    <a href="https://login.dm.gov.ae/wps/portal/ext_ar?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+Ar/home-ar/TermsAndConditions">شروط وأحكام</a> |
+    <a href="https://login.dm.gov.ae/wps/portal/ext_ar?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+Ar/home-ar/PrivacyPolicy">سياسة الأمن و الخصوصية</a>
  </div><!-- end #footer menu-->
  
  <div id="footer-copyright">حقوق النسخ © 2007-2011 بلدية دبي. جميع الحقوق محفوظة. <br/>

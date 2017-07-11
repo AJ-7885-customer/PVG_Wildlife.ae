@@ -28,7 +28,7 @@
     <!-- mysplash.gif must live on the load path but NOT inside the jar -->
     <param name="image" value="ali.gif">
     <param name="boxmessage" value="Please go for a coffee while the bloated whazmotron Applet loads...">
-    <param name="paramfile" value="http://www.wildlife.ae/TimeDelay/CamImg1/input.xml">
+    <param name="paramfile" value="https://www.wildlife.ae/TimeDelay/CamImg1/input.xml">
     <param name= "favouriteColour" value= "orange" >
   <img src= "image/NoJava4U.jpg" >You need Java 1.6 to run this Applet.
     </APPLET>

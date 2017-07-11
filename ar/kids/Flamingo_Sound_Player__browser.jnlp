@@ -3,7 +3,7 @@
     <information>
         <title>Flamingo Sound Player </title>
         <vendor>Ali Jamali</vendor>
-        <homepage href="http://www.wildlife.ae/update/NewComponet/FlamingoSoundPlayer/"/>
+        <homepage href="https://www.wildlife.ae/update/NewComponet/FlamingoSoundPlayer/"/>
         <description>Flamingo Sound Player </description>
         <offline-allowed/>
         <shortcut>
@@ -12,7 +12,7 @@
     </information>
     <resources>
         <j2se version="1.5+"/>
-        <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.2/javafx-rt.jnlp"/>
+        <extension name="JavaFX Runtime" href="https://dl.javafx.com/1.2/javafx-rt.jnlp"/>
         <jar href="Flamingo_Sound_Player_.jar" main="true"/>
     </resources>
     <applet-desc name="Flamingo_Sound_Player_" main-class="com.sun.javafx.runtime.adapter.Applet" width="355" height="133">

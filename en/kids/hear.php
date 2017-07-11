@@ -33,7 +33,7 @@
                                 <p class="style1">Run Option :</p>
                                 <p class="style1">1. Run on the web browser </p>
                                 <p class="style1">2. To add this application to your desktop press ALT key and drag the application with your mouse to your desktop . </p>
-                                <p class="style1">3. To install this application  click here .</script><a href=''><img src="http://java.sun.com/products/jfc/tsc/articles/swing2d/webstart.png" border="0"></a>
+                                <p class="style1">3. To install this application  click here .</script><a href=''><img src="https://java.sun.com/products/jfc/tsc/articles/swing2d/webstart.png" border="0"></a>
 
           </p>
                                 <p class="style1">&nbsp;</p>

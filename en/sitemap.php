@@ -30,8 +30,8 @@
                             <area shape="poly" coords="378,305,439,328,437,334,372,316" href="contact.php" />
 
                             <area shape="poly" coords="383,324,415,337,412,347,379,336" href="links.php" />
-                            <area shape="poly" coords="347,302,272,330,277,343,348,313" href="http://login.dm.gov.ae/wps/portal/ext_en?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+En/home-en/PrivacyPolicy" />
-                            <area shape="poly" coords="353,323,246,361,251,374,354,336" href="http://login.dm.gov.ae/wps/portal/ext_en?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+En/home-en/TermsAndConditions" />
+                            <area shape="poly" coords="347,302,272,330,277,343,348,313" href="https://login.dm.gov.ae/wps/portal/ext_en?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+En/home-en/PrivacyPolicy" />
+                            <area shape="poly" coords="353,323,246,361,251,374,354,336" href="https://login.dm.gov.ae/wps/portal/ext_en?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+En/home-en/TermsAndConditions" />
                             <area shape="poly" coords="374,346,459,380,451,395,370,361" href="https://portal.dm.gov.ae/suggestions/sc_welcome.htm" />
                             <area shape="poly" coords="100,303,50,304,50,316,103,315" href="visit/visitation.php" />
                             <area shape="poly" coords="82,326,48,336,53,348,94,341" href="visit/hides.php" />

@@ -27,7 +27,7 @@
                                                             <PARAM name="ShowControls" VALUE="false"/>
                                                             <param name="ShowStatusBar" value="true"/>
                                                             <PARAM name="ShowDisplay" VALUE="false"/>
-                                                            <EMBED TYPE="application/x-mplayer2" SRC="http://213.42.28.213:8888" NAME="MediaPlayer"
+                                                            <EMBED TYPE="application/x-mplayer2" SRC="https://213.42.28.213:8888" NAME="MediaPlayer"
                                                                    WIDTH="451" HEIGHT="270" ShowControls="0" ShowStatusBar="1" ShowDisplay="0" autostart="1"/>
                                                         </OBJECT>
                                                     </td>
@@ -54,7 +54,7 @@
                                             <p align="justify" style="font-size: 2.7mm">Come back and check often as you will not be able to see the birds if they are not nesting in the area at the time you are viewing.</p>
                                             <p align="justify" style="font-size: 2.7mm">Dubai Municipality is deeply committed to educating the public about protecting the environment and preserving Dubai's natural wildlife habitats.</p> <br/>
                                             <center >
-<p align="center"><!-Weather in Dubai, United Arab Emirates on your site - HTML code - weatherforecastmap.com -- ><div align="center" style="width:130px;border:0px solid #ccc;font-color:#ddd;font-weight:bold;margin:0px 0px 0px 0px;"><script src="http://www.weatherforecastmap.com/weather2001.php?zona=united-arab-emirates_dubai"></script><div align="center" style="font-color:#ddd;font-weight:normal;"></div></div><!-end of code--></p></center>            </td>
+<p align="center"><!-Weather in Dubai, United Arab Emirates on your site - HTML code - weatherforecastmap.com -- ><div align="center" style="width:130px;border:0px solid #ccc;font-color:#ddd;font-weight:bold;margin:0px 0px 0px 0px;"><script src="https://www.weatherforecastmap.com/weather2001.php?zona=united-arab-emirates_dubai"></script><div align="center" style="font-color:#ddd;font-weight:normal;"></div></div><!-end of code--></p></center>            </td>
                                     </tr>
                                 </table>
 </center>

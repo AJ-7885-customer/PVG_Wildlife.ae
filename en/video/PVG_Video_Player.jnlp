@@ -12,7 +12,7 @@
     </information>
     <resources>
         <j2se version="1.5+"/>
-        <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.2/javafx-rt.jnlp"/>
+        <extension name="JavaFX Runtime" href="https://dl.javafx.com/1.2/javafx-rt.jnlp"/>
         <jar href="PVG_Video_Player.jar" main="true"/>
     </resources>
     <application-desc main-class="com.sun.javafx.runtime.main.Main">

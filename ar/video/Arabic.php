@@ -12,7 +12,7 @@
                         <div id="content-title">فيديو</div>
                         <div id="content-text">
                         <center>         
-                            <iframe width="640" height="360" src="http://www.youtube.com/embed/Bq1D3BEqL5w?autoplay=1&loop=1&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="640" height="360" src="https://www.youtube.com/embed/Bq1D3BEqL5w?autoplay=1&loop=1&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
                         </center>
                       
                       </div> <!--EOF Content-text -->

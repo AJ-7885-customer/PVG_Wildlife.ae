@@ -7,8 +7,8 @@
     <a href="/en/links.php">Links</a> |
     <a href="/en/sitemap.php">Site Map</a> |
     <a href="/en/contact.php">Contact Us</a> |
-    <a href="http://login.dm.gov.ae/wps/portal/ext_en?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+En/home-en/PrivacyPolicy">Security & Privacy</a> |
-    <a href="http://login.dm.gov.ae/wps/portal/ext_en?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+En/home-en/TermsAndConditions">Terms &amp; Conditions </a> |
+    <a href="https://login.dm.gov.ae/wps/portal/ext_en?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+En/home-en/PrivacyPolicy">Security & Privacy</a> |
+    <a href="https://login.dm.gov.ae/wps/portal/ext_en?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/DMEGOV/DM+Internet+En/home-en/TermsAndConditions">Terms &amp; Conditions </a> |
     <a href="https://portal.dm.gov.ae/suggestions/sc_welcome.htm">Suggestions & Complaints </a>
  </div><!-- end #footer menu-->
  <div id="footer-information">

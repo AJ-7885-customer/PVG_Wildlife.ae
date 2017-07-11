@@ -49,7 +49,7 @@
                                                 <tr align="right" >
                                                 <td width="50%" ></td>
                                                     <th width="50%"  bgcolor="#0b263d" class="lt" >
-                                                        <a href="http://www.wildlife.ae/ar/Doc/700072341APPLICATION_FORM_FOR_WILDLIFE_SANCTUARIES_VISIT.pdf" target="_blank" onfocus="this.blur();">طلب الاستمارة</a>
+                                                        <a href="../Doc/700072341APPLICATION_FORM_FOR_WILDLIFE_SANCTUARIES_VISIT.pdf" target="_blank" onfocus="this.blur();">طلب الاستمارة</a>
                                                     </th>
                                                     <td width="50%" ></td>
                                                 </tr>
