@@ -4,16 +4,16 @@
 
 	AUTOMATIC IMAGE ROTATOR
 	Version 3 - November 1, 2010
-	Copyright (c) 2006-2010 Ali Jamali, www.AliJamali.com.
+	Copyright (c) 2006-2010 MAVAJ SUN CO
 	All Rights Reserved.
 
 		
 	DISCLAIMER
-	www.AliJamali.com. makes no representations or warranties about
+	MavajSunCo.com. makes no representations or warranties about
 	the suitability of the software, either express or
 	implied, including but not limited to the implied
 	warranties of merchantability, fitness for a particular
-	purpose, or non-infringement. Ali Jamali , www.AliJamali.com , Mavaj Sun Co.
+	purpose, or non-infringement. MavajSunCo.com
 	shall not be liable for any damages suffered by licensee
 	as a result of using, modifying or distributing this
 	software or its derivatives.
